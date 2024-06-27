@@ -1,0 +1,14 @@
+
+npm i --save react-bootstrap
+
+bootstrap.css
+npm install bootstrap --save
+
+
+npm install react-router-dom --save
+
+npm install axios
+
+
+npm install sweetalert2 --save 
+
